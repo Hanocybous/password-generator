@@ -26,4 +26,4 @@ If you want to contribute to this repository, you can do so by forking the repos
 
 ## License
 
-This repository is licensed under the Apache License 2.0. You can read the license [here](LICENSE.MD).
+This repository is licensed under the Apache License 2.0. You can read the license [here](LICENSE).
